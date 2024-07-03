@@ -1,0 +1,1 @@
+This Python script employs three different regression techniques—linear regression, polynomial regression, and logistic regression—to predict stock market prices based on historical data from a CSV file.
